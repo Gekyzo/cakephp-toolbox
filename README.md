@@ -6,6 +6,12 @@ You can install this plugin into your CakePHP application using [composer](https
 
 The recommended way to install composer packages is:
 
+```bash
+composer gekyzo/cakephp-toolbox
 ```
-composer require your-name-here/ToolBox
+
+After, load the plugin with the following command:
+
+```bash
+bin/cake plugin load ToolBox
 ```
