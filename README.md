@@ -15,3 +15,8 @@ After, load the plugin with the following command:
 ```bash
 bin/cake plugin load ToolBox
 ```
+
+## Funcionalidades
+
+- Crear logs personalizados
+- Manejo de carpetas y archivos
